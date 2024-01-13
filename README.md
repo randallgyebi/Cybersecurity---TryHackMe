@@ -1,8 +1,8 @@
 # TryHackMe Journey
 
-This repo contains all my notes from the rooms undertaken while doing TryHackMe rooms.
+This repo documents my cybersecurity experience via TryHackMe and contains all my notes from the rooms undertaken while doing rooms.
 
-I am currently doing the Beginner path and have completed:
+I am currently doing the Complete Beginner path and have completed:
 - Complete Beginneer Introduction
 - Linux Fundamentals
 
