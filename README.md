@@ -1,4 +1,4 @@
-# TryHackMe Noted
+# TryHackMe Journey
 
 This repo contains all my notes from the rooms undertaken while doing TryHackMe rooms.
 
